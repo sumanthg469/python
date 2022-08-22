@@ -1,0 +1,58 @@
+python:
+========
+
+idle---integrated devlopement learning environment
+ide----pycharm(cominutity edition,profisonal edition),anukonda(jupitor,jupitor lab,lab),eclipse
+
+online editor
+===============
+diff types of datat type's
+variable/object's(python)  ----varying --->changing
+it is a container
+it is used to store value
+the values can be chanaged during excution of the program.
+it is called varibale
+date,age,time,day,weight,bank balance. etc....
+
+
+constant's:
+it is a container
+it is used to store value
+the values cannot be chanaged during excution of the program.
+it is called constant
+
+colour,surname,name,pi,e,etc.....
+
+-----------------------
+assignmet: to store a value into a variable it is called assignment
+types of asignment's:
+methode-1: single variable with single value
+
+a=25
+print(a)
+----------------------------------
+methode-2: single variable with multiple  value
+ex:
+a=2,3,45,67------list,tuple
+print(a)
+================================
+ methode-3: multiple  variable's with single  value
+ a=b=c=d=4
+ print(a)
+ print(b)
+ print(c)
+ print(d)
+ result:4
+ ==================
+  methode-4: multiple  variable's with multiple value's
+  a,b,c,d=11,22,33,44
+   print(a)
+   11
+ print(b)
+ 22
+ print(c)
+ 33
+ print(d)
+44
+===============================
+ 
