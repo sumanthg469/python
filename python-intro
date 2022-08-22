@@ -55,4 +55,150 @@ print(a)
  print(d)
 44
 ===============================
- 
+controal statement's
+match-case:
+3.10 
+--it is used check for multiple condition
+syntax:
+n=int(input('enter number'))
+match n
+	case 0:
+		print("zero")
+	case 1:
+		print("one")
+	case 2:
+		print("two")
+		===========================
+day=int(input('enter number'))
+match day
+	case 0:
+		print("sunday")
+	case 1:
+		print("mon")
+	case 2:
+		print("thues")		
+======================================
+if-elif-else
+controal statement:
+3 type's
+1) conditional statement
+
+-->if 
+-->if -else
+--> if -elif
+->if-elif-else
+--> nested if
+---> single line
+--->match-case
+
+
+2) iterative
+---->while
+----> for
+-----> 
+3) transfer contrao statement
+---> break
+---> continue 
+---> pass
+=============================
+if-else:
+syntax:
+
+if condition:
+	statement-1
+else:
+	statement-2
+	
+if,else keyword's
+if the condition return true, then st-1 is excuted. and st-2 is not excuted
+if the condition return fasle, then st-1 is not excuted. and st-2 is  excuted
+
+=======================
+write a prgm to find biggest a number
+a=int(input('enter first number))
+b=int(input('enter second number))
+if a>b:
+	print('a is biggest')
+else:
+	print('b is biggest')
+	
+============================
+write a progeme given number ever or odd
+a=int(input('enter number'))
+
+if a%2==0:
+	print('even')
+else:
+	print('odd')
+
+	
+ =========================
+ a=int(input('enter age'))
+
+if a>=18:
+	print('voting el9gible')
+	print('greate')
+else:
+	print('not elible for voting')
+	print('sorry')
+
+if true if statement ecute
+else excute else statmenet
+
+===========================
+spacess---indentation
+====================
+simple if statement
+if:
+syntax:
+
+if condition:
+	statement-1
+if,else keyword's
+if the condition return true, then st-1 is excuted. and st-2 is not excuted
+
+=====================================================================================
+math=int(input('enter math's'))
+phy=int(input('enter phy's'))
+eng=int(input('enter eng's'))
+if math>=35:
+	print('your pass in math's')
+if phy>=35:
+	print('your pass in phy')
+if eng>=35:
+	print('your pass in eng')
+
+=========================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
