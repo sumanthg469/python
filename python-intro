@@ -170,31 +170,126 @@ if eng>=35:
 
 =========================================================
 
+here we are not declare the variable 
+we are storing the data using variable 
+
+based on value type will fix
+declare the varibles is compasory these programs are called static typed lang
+declare the varibles is not required these programs are called dynamic  typed lang
+set or group of statements is called program
+============================
+lang translator 
+it is software
+it is used to convert high level to low level 
+these are 2 types
+	compiler
+	it is used to convert high level to low level to entire pogram once
+	ex:c,java
+	interpretor
+			it is used to convert high level to low level to one by one pogram once
+				ex:python,js.
+				
+				
+==============================================================
+windows
+linux
+ubuntu
+maya
+mac
+dos
+it is a software platform b/w the  bare metal and devloper
+===========================================================
+data types
+
+int
+float
+string
+complex
+boolean
+listtuple
+set
+dic
+frozenset
+bytes
+bytearray
+Nnone
+range
+=========================================================
+2) iterative
+---->while
+----> for
+
+what is loop: cycle
+a single statement or group of statement are excuted repetealy. it is called a loop.
+
+it support's
+for 
+while
+===========================
+while loop: the group of statement's are excuted repetly until condition return true
+if return false then to stop the while loop
+
+synatx:
+
+while condition:
+	st-1
+	st-2
+	st-3
+print('gm/n'*5)
+
+while is a keyword
+condition is a relational expression it return true/false
+':' brgining of the while loop
+st1,st2,----body of while loop
+'''print("GM")
+print("GM")
+print("GM")
+print("GM")
+print("GM")
+print("GM")
+print("GM")
+print("GM")
+print("GM")
+print("GM")'''
 
 
+#Using while loop
+i=1
+while i<=10:
+    print("GOOD EVENING")
+    i=i+1
+================================================================
+ex:2--- write a program to print 1 to 10 number's
+i=1
+while i<=10:
+    print(i)
+    i=i+1
+
+=============================================
+i=1
+while i<=10:
+    print(i)
+    i=i+2
+
+==========================
+to print even number's 1 to 10
+i=2
+while i<=10:
+    print(i)
+    i=i+2
+====================================
 
 
+while i<=10:
+    print(i)
+    i=i+2
 
+if not define i value it will thorows error
+====================
+these are infinite loop because 'i' value is '1'
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+while i<=10:
+    print(i)
 
 
 
